@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Instant Text Editor</title>
+		<title>writejs</title>
 		<link href="http://fonts.googleapis.com/css?family=Cardo" rel="stylesheet">
 		<link href="stylesheet.css?<?php echo time(); ?>" rel="stylesheet" media="screen">
 		<link href="print.css?<?php echo time(); ?>" rel="stylesheet" media="print">
