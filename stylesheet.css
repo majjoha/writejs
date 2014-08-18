@@ -1,0 +1,58 @@
+body {
+	background-color: #FFF;
+	color: #434343;
+	font-family: "Cardo";
+	font-size: 16px;
+	margin-right: 25%;
+	line-height: 1.8;
+	margin-left: 12.5%;
+	margin-right: 12.5%;
+	margin-top: 5%;
+	letter-spacing: 0.6px;
+}
+
+p:focus {
+	outline: 0 none;
+}
+
+h1:focus {
+	outline: 0 none;
+}
+
+a {
+	color: #434343;
+	text-decoration: none;
+	border-bottom: 1px solid #333;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li:before {
+	content: "\BB \20";
+}
+
+li {
+	list-style-type: none;
+}
+
+.small {
+	font-size: 16px;
+	display: inline;
+	padding-right: 5px;
+	border-right: 1px solid #333;
+}
+
+.wrong {
+	border-bottom: 2px dotted red;
+	margin-bottom: -2px;
+}
+
+input {
+	border: 1px solid #CCC;
+	border-radius: 5px 5px 5px 5px;
+	background-color: #FFF;
+	color: #666;
+}
